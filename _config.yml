@@ -30,13 +30,13 @@ baseurl: ""
 heading: Jekyll Garden # Change this 
 content: Obsidian ready Jekyll Theme
 copyright:  
-  year: © 2022
-  msg: Contents under CC-BY-NC 
+  year: © 2025
+  msg: Made with 🫶 in New Delhi
 
 # Set title and content for private & broken link tooltop
 privatelinks:
-  title: Private or Broken Links
-  msg: The page you're looking for is either not available or private!
+  title: 404
+  msg: The page you're looking for doesn't exist or is private!
 
 # Theme level preferences
 # To enable set "enabled : true" else, use "enabled:false"
