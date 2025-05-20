@@ -1,5 +1,5 @@
 ---
 layout: Post
 permalink: /
-title: Ex Libras Pranav
+title: Home
 ---
