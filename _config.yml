@@ -30,8 +30,8 @@ baseurl: ""
 heading: Ex Libras Pranav
 content: Obsidian ready Jekyll Theme
 copyright: Pranav Butalia 
-  year: © 2025
-  msg: Made with 🫶 in New Delhi
+year: © 2025
+msg: Made with 🫶 in New Delhi
 
 # Set title and content for private & broken link tooltop
 privatelinks:
